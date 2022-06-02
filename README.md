@@ -1,89 +1,30 @@
-# Unit 1: Online Portfolio README
+# Hello website!
 
-## Overview
+This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
 
-In this unit, coders will review HTML and CSS concepts from the Introduction to Web Development course and build a multi-page professional Portfolio.
+## What's in this project?
 
-## Day 1
+← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 
-### Set up
+← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
 
-[ ] Complete the Project Planning Document.
+← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
 
-[ ] Go to the repository.
+← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
 
-[ ] Fork this repository to your GitHub account.
+Open each file and check out the comments (in gray) for more info.
 
-[ ] Create a new project on Glitch that imports your repo from GitHub.
+## Try this next 🏗️
 
-[ ] Submit your GitHub repo link and Glitch Project Page links on the Agenda.
+Take a look in `TODO.md` for next steps you can try out in your new site!
 
-### HTML
+___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
 
-[ ] Add a header with your name to your Portfolio homepage.
+![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-[ ] Update the title tag of both of your pages.
+## You built this with Glitch!
 
-[ ] Create your navigation bar that will link all your pages together.
+[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
-[ ] Give your HTML elements class names.
-
-[ ] Write your biography on your About Me page.
-
-### CSS
-
-[ ] Choose 2-4 colors for your theme and add them as font or background colors.
-
-[ ] Add flexbox to your navigation bar.
-
-[ ] Add at least 1 Google Font.
-
-## Day 2
-
-### Set Up
-
-[ ] Link your homepage and About Me pages together using your nav bar.
-
-[ ] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
-
-[ ] Upload at least 2 images so they are hosted in your Portfolio.
-
-[ ] Update the title tags of all your new HTML files.
-
-[ ] Make sure your CSS file is linked to all your HTML files.
-
-### HTML
-
-[ ] Add a professional-looking photo of yourself or something relevant to your homepage.
-
-In your Projects page, create a display of at least 4 of your old coding projects that includes:
-
-    [ ] Project name
-    [ ] Link to project GitHub repo
-    [ ] Link to project live site
-    [ ] Short description of project including coding languages used
-    [ ] Hosted screenshot of project
-
-Add your contact information to your Contact page, including your:
-
-    [ ] GitHub account
-    [ ] Email address
-    [ ] LinkedIn
-    [ ] Resume
-
-### CSS
-
-[ ] Format the sizes of all your pictures
-
-
-### Extensions
-
-[ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
-
-[ ] Add a unordered or ordered list of your accomplishments or favorite things to your About Me page.
-
-[ ] Make sure all your external links open up into new tabs.
-
-[ ] Create a link that pops open the email browser with your email address in the to: field.
-
-[ ] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
+- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
+- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
